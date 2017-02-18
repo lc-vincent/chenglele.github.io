@@ -29,9 +29,9 @@ disqus:
   shortname: chenglele-zh
 
 # google analytics config
-ga:
-  id: UA-54767140-1
-  url: chenglele.org
+#ga:
+#  id: UA-54767140-1
+#  url: chenglele.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
@@ -47,6 +47,3 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
-
-
-theme: jekyll-theme-time-machine
